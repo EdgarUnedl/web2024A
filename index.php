@@ -7,8 +7,13 @@
 
  * hola soy max
  * 
+ * Comentario de Chuy
+ * Que onda soy Robert
+ * 
+ * hola soy andres
  * Mi papa es el mejor programador
  * Comentario de Parra
+ * hola,comentario hector
 */
 
 session_start();
