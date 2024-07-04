@@ -1,5 +1,5 @@
 <?php
-
+//Caleb se la come entera
 session_start();
 
 if( isset( $_SESSION['username'] )==true && isset( $_SESSION['token'] )){
