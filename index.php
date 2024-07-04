@@ -2,6 +2,7 @@
 
 /*** 
  * Hola este es un comentario de Edgar
+ * hola soy max
 */
 session_start();
 
