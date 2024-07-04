@@ -1,4 +1,6 @@
 <?php
+//ESTEEEEEEEEE DOCUMENTOOOO ESTA EDITADO POR JOSKUA AHUMADA 
+//CHATOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 
 session_start();
 
@@ -12,6 +14,8 @@ else{
     ?>
 <!DOCTYPE html>
 <html lang="es">
+
+
 
 <head>
   <meta charset="utf-8">
