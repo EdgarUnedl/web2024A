@@ -2,8 +2,12 @@
 
 /*** 
  * Hola este es un comentario de Edgar
+<<<<<<< Updated upstream
  * 
  * Mi papa es el mejor programador
+=======
+ * Comentario de Parra
+>>>>>>> Stashed changes
 */
 session_start();
 
