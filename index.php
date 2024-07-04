@@ -2,6 +2,15 @@
 //ESTEEEEEEEEE DOCUMENTOOOO ESTA EDITADO POR JOSKUA AHUMADA 
 //CHATOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 
+/*** 
+ * Hola este es un comentario de Edgar
+
+ * hola soy max
+ * 
+ * Mi papa es el mejor programador
+ * Comentario de Parra
+*/
+>>>>>>> 7379a8c35c0b4a5c0677f84eb5c30e65fa5920e2
 session_start();
 
 if( isset( $_SESSION['username'] )==true && isset( $_SESSION['token'] )){
