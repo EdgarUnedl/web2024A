@@ -2,11 +2,11 @@
 //ESTEEEEEEEEE DOCUMENTOOOO ESTA EDITADO POR JOSKUA AHUMADA 
 //CHATOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 
-/*** 
+/*
  * Hola este es un comentario de Edgar
-
  * hola soy max
  * chipi chipi chapa chpa magico mi dubi dubi bum bum bum
+ * hola soy andres
  * Mi papa es el mejor programador
  * Comentario de Parra
 */
