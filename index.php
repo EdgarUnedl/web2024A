@@ -5,13 +5,12 @@
 /*
  * Hola este es un comentario de Edgar
  * hola soy max
-<<<<<<< HEAD
+
  * chipi chipi chapa chpa magico mi dubi dubi bum bum bum
-=======
+
  * 
  * Que onda soy Robert
- * 
->>>>>>> dfe4a532b56f2269b567131bd7d142ed4a9594e1
+ * Comentario de Alvaro
  * hola soy andres
  * Mi papa es el mejor programador
  * Comentario de Parra
