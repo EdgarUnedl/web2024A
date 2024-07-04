@@ -1,5 +1,7 @@
 <?php
-
+/*** 
+ * Hola este es un comentario de Edgar
+*/
 session_start();
 
 if( isset( $_SESSION['username'] )==true && isset( $_SESSION['token'] )){
